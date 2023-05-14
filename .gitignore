@@ -1,0 +1,42 @@
+# Unity generated files
+InitCodeMarker
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]nityGenerated/
+/Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated files
+.vs/
+*.vsconfig
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.prefs
+*.dll.mdb
+
+# Gradle files
+.gradle/
+build/
+
+# Mac files
+.DS_Store
+.svn
+
+# Other
+*.apk
+*.unitypackage
+*.mp4
+*.zip
+*.log
