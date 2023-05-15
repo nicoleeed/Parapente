@@ -14,17 +14,17 @@ Por otro lado, el Kinect es un sensor de movimiento que detecta el movimiento de
 
 
 ## Ejecucion
-**1** Para ejecutar el simulador se utilizo el ambiente de unity hub.
+**1.-** Para ejecutar el simulador se utilizo el ambiente de unity hub.
 
-**2** Se abre el proyecto descargando la version necesaria.
+**2.-** Se abre el proyecto descargando la version necesaria.
 
-**3** Se debe terner descargado los paquetes de integracion tanto del kinnect como del oculus.
+**3.-** Se debe terner descargado los paquetes de integracion tanto del kinnect como del oculus.
 
-**4** Se agregan los paquetes de integracion a los asset.
+**4.-** Se agregan los paquetes de integracion a los asset.
 
-**5** Se Configura el proyecto para que se vizualice en el oculus.
+**5.-** Se Configura el proyecto para que se vizualice en el oculus.
 
-**6** Se ejecuta!
+**6.-** Se ejecuta!
 
 
 ## Mecánicas del juego
@@ -33,21 +33,21 @@ Las mecánicas del juego se basan en la utilización de los dispositivos mencion
 El juego consistirá en una experiencia de simulación de parapente en realidad virtual, donde el jugador podrá mover sus brazos para controlar el vuelo del parapente, gracias a la detección de gestos del Kinect. De esta manera, el jugador tendrá la sensación de estar volando en un parapente en un entorno virtual realista utilizando movimientos muy similares a los que utilizaria en un parapente real.
 
 ## Gestos para el manejo del parapente
-**1**  Primer gesto - Girar a la izquierda: Bajando la mano izquierda, se baja la parte izquierda del borde de fuga. Esto hace que la parte izquierda del ala se frene y gire a la izquierda.
+**1.-**  Primer gesto - Girar a la izquierda: Bajando la mano izquierda, se baja la parte izquierda del borde de fuga. Esto hace que la parte izquierda del ala se frene y gire a la izquierda.
 
-**2**  Segundo gesto - Girar a la derecha: Bajando la mano derecha, se baja la parte derecha del borde de fuga. Esto hace que la parte derecha del ala se frene y gire a la derecha.
+**2.-**  Segundo gesto - Girar a la derecha: Bajando la mano derecha, se baja la parte derecha del borde de fuga. Esto hace que la parte derecha del ala se frene y gire a la derecha.
 
-**3** Tercer gesto - Acelerar: Levantando ambas manos a un estado de "reposo" inicial se acelera.
+**3.-** Tercer gesto - Acelerar: Levantando ambas manos a un estado de "reposo" inicial se acelera.
 
-**4** Cuarto gesto - Frenar o desacelerar: Uniendo ambas manos hacia abajo delante del cuerpo.
+**4.-** Cuarto gesto - Frenar o desacelerar: Uniendo ambas manos hacia abajo delante del cuerpo.
 
-**5**  Quinto gesto - Ganar altura: Poniendo el pie derecho delante del izquierdo el parapente se eleva en altura.
+**5.-**  Quinto gesto - Ganar altura: Poniendo el pie derecho delante del izquierdo el parapente se eleva en altura.
 	    
 ## Resultados por objetivo propuesto
 
-**1** El objetivo de brindar una experiencia realista en un entorno controlado: Se cumplió satisfactoriamente, pues durante la experiencia el usuario se siente inmerso en la simulación y se llega a experimentar sensaciones similares a las del paracaidismo real, como el mareo o vértigo, pero siempre manteniéndonos en un entorno controlado y seguro.
+**1.-** El objetivo de brindar una experiencia realista en un entorno controlado: Se cumplió satisfactoriamente, pues durante la experiencia el usuario se siente inmerso en la simulación y se llega a experimentar sensaciones similares a las del paracaidismo real, como el mareo o vértigo, pero siempre manteniéndonos en un entorno controlado y seguro.
 
-**2**  El objetivo de superar el miedo a las alturas: Con ayuda de nuestro proyecto podemos acercar a usuarios con temor a las alturas a experiencias de este tipo, pero de forma segura, con ayuda de las imágenes y la perspectiva parece que vuelan a grandes alturas, pero de forma segura.
+**2.-**  El objetivo de superar el miedo a las alturas: Con ayuda de nuestro proyecto podemos acercar a usuarios con temor a las alturas a experiencias de este tipo, pero de forma segura, con ayuda de las imágenes y la perspectiva parece que vuelan a grandes alturas, pero de forma segura.
 
 **3**  El objetivo de crear un ambiente interactivo busca que el usuario pueda interactuar con el entorno virtual de manera intuitiva y natural. La experiencia del usuario es inmersiva, pues los gestos utilizados para el manejo del vuelo del parapente fueron creadas basado en como en realidad se controla un parapente, por lo que si un usuario ya manejo un parapnte real alguna vez, es muy sencillo e intuitivo interactuar con el proyecto, y en el caso de usuarios que no conozcan la dinámica del parapente, también es muy intuitivo, además al inicio de la experiencia tiene un pequeño circuito que lo ayuda a entender como funcionan los gestos para el manejo, y como esto se refleja en la simulación de vuelo que puede observar.
 
